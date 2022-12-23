@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - ColisionSegura
+  - Aterrizaje
+  - ColisionPeligrosa
+  - Combustible
+  - ColisionPeligrosa1
+  - Aterrizaje1
+  - ColisionPeligrosa2
+  - Aterrizaje2
+  - ColisionPeligrosa3
+  - Aterrizaje3
+  - ColisionPeligrosa4
+  - Aterrizaje4
+  - ColisionPeligrosa5
+  - Aterrizaje5
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
